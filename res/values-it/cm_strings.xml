@@ -132,5 +132,5 @@
 
     <!-- Enable emoticons -->
     <string name="pref_title_enable_emoticons">Supporto emoticon</string>
-    <string name="pref_summary_enable_emoticons">Sostituisci le faccine con i loro equivalenti garfici</string>
+    <string name="pref_summary_enable_emoticons">Sostituisci le faccine con i loro equivalenti grafici</string>
 </resources>
