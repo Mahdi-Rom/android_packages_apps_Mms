@@ -134,7 +134,7 @@ limitations under the License.
 <string name="send_delay_10seconds">10 secondes</string>
 <string name="send_delay_20seconds">20 secondes</string>
 <string name="send_delay_30seconds">30 secondes</string>
-<string name="sent_countdown">Décompte d\'envoi du message</string
+<string name="sent_countdown">Décompte d\'envoi du message</string>
 <!-- Breathing Notifications -->
 <string name="sms_breath">Breathing SMS</string>
 <string name="sms_breath_summary">Il donnera à vos notification dans la barre d\'état un effet breathing.</string>
