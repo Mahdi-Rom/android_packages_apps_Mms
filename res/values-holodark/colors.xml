@@ -78,8 +78,5 @@
     <!-- QuickMessage colors from layout-->
     <color name="quickmessage_body_text_color">#ffffffff</color>
     <color name="quickmessage_divider">#ffffffff</color>
-
-    <!-- Message list background -->
-    <color name="list_background">#ff1e1e1e</color>
 	
 </resources>
